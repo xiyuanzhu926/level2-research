@@ -1,3 +1,22 @@
+"""
+feature_engineering.py
+
+Feature engineering utilities.
+
+Construct auction-level features including
+
+Price Features
+
+Volume Features
+
+Volatility Features
+
+Trend Features
+
+Output:
+One feature row per stock-day.
+"""
+
 import pandas as pd
 
 # 9: 15-9:30 auction

@@ -1,3 +1,14 @@
+"""
+ddb_client.py
+
+Utilities for connecting to the DolphinDB server
+and executing database queries.
+
+Author: Bella Zhu
+Project:
+A-share Level2 Opening Auction Microstructure Analysis
+"""
+
 import dolphindb as ddb
 import os
 from dotenv import load_dotenv\

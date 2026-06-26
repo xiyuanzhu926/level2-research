@@ -1,3 +1,17 @@
+"""
+plotting.py
+
+Visualization utilities.
+
+Including
+
+Single-stock plots
+
+Cross-sectional plots
+
+Longitudinal plots
+"""
+
 import matplotlib.pyplot as plt
 
 # auction price path plot
