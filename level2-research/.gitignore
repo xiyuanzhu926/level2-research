@@ -1,10 +1,19 @@
-.env
+# Python
 __pycache__/
-
-.ipynb_checkpoints/
-
 *.pyc
 
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# VSCode
 .vscode/
 
-.DS_Store
+# Local market data
+quota/
+
+# Temporary outputs
+*.log
+*.tmp
