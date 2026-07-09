@@ -462,39 +462,39 @@ Price Std = 0.1
 
 #### Cancel Volume Ratio
 
-\[
+$$
 CancelVolumeRatio
 =
 \frac{CancelVolume}
 {SubmitVolume}
-\]
+$$
 
 #### Large Order Share
 
-\[
+$$
 LargeOrderShare
 =
 \frac{LargeOrderVolume}
 {TotalVolume}
-\]
+$$
 
 #### Order Intensity
 
-\[
+$$
 OrderIntensity
 =
 \frac{OrderCount}
 {TimeWindow}
-\]
+$$
 
 #### Relative Price Dispersion
 
-\[
+$$
 RelativePriceDispersion
 =
 \frac{PriceStd}
 {PreviousClose}
-\]
+$$
 
 核心原则：
 
@@ -538,12 +538,12 @@ High Divergence
 
 其中：
 
-\[
+$$
 BuyPressure
 =
 \frac{BuyOrderValue}
 {MarketCapitalization}
-\]
+$$
 
 控制这些变量后：
 
@@ -637,7 +637,7 @@ Economic Mechanism
 
 当前研究可以将：
 
-\[
+$$
 AuctionInformation
 =
 Direction
@@ -653,7 +653,7 @@ Commitment
 PriceDiscovery
 +
 OrderDistribution
-\]
+$$
 
 整理为以下 Feature Families：
 
@@ -767,11 +767,11 @@ Low Divergence Portfolio
 
 然后研究：
 
-\[
+$$
 CumulativeReturn_{High}
 -
 CumulativeReturn_{Low}
-\]
+$$
 
 在 Continuous Trading 中的 Dynamic Path。
 
@@ -820,11 +820,11 @@ Q5 = High Feature Value
 
 然后计算：
 
-\[
+$$
 CumulativeReturn_{Q5}
 -
 CumulativeReturn_{Q1}
-\]
+$$
 
 Across:
 
