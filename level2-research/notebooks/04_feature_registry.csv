@@ -1,0 +1,41 @@
+feature,family,priority,missing_rate,n_unique
+depth_imbalance,Direction,Core Candidate,0.0,2503
+last_minute_net_order_imbalance,Direction,Core Candidate,0.0,2512
+last_minute_submit_imbalance,Direction,Core Candidate,0.0,2512
+net_order_imbalance,Direction,Core Candidate,0.0,2520
+net_pressure_to_depth,Direction,Core Candidate,0.005952380952380952,2504
+submit_imbalance,Direction,Core Candidate,0.0,2519
+buy_price_divergence,Divergence / Distribution,Core Candidate,0.0,2520
+buy_sell_divergence_gap,Divergence / Distribution,Core Candidate,0.0,2520
+largest_order_share,Divergence / Distribution,Core Candidate,0.0,2519
+n_price_levels,Divergence / Distribution,Core Candidate,0.0,415
+order_size_hhi,Divergence / Distribution,Core Candidate,0.0,2520
+sell_price_divergence,Divergence / Distribution,Core Candidate,0.0,2520
+avg_submit_size,Liquidity / Aggregation,Core Candidate,0.0,2519
+max_submit_size,Liquidity / Aggregation,Core Candidate,0.0,1027
+median_submit_size,Liquidity / Aggregation,Core Candidate,0.0,158
+n_orders,Liquidity / Aggregation,Core Candidate,0.0,1267
+n_submit_orders,Liquidity / Aggregation,Core Candidate,0.0,1225
+pressure_intensity_to_depth,Liquidity / Aggregation,Core Candidate,0.005952380952380952,2504
+total_depth,Liquidity / Aggregation,Core Candidate,0.0,2496
+auction_price_range,Price Path,Core Candidate,0.00873015873015873,2378
+auction_price_volatility,Price Path,Core Candidate,0.011111111111111112,2404
+avg_price_revision_magnitude,Price Path,Core Candidate,0.04523809523809524,2400
+convergence_speed,Price Path,Core Candidate,0.011111111111111112,319
+last_minute_price_change,Price Path,Core Candidate,0.02023809523809524,1665
+max_price_revision_magnitude,Price Path,Core Candidate,0.04523809523809524,2281
+median_price_revision_magnitude,Price Path,Core Candidate,0.04523809523809524,2304
+n_price_revisions,Price Path,Core Candidate,0.0,55
+price_path_smoothness,Price Path,Core Candidate,0.011111111111111112,1856
+price_reversal_count,Price Path,Core Candidate,0.00873015873015873,30
+price_reversal_rate,Price Path,Core Candidate,0.04523809523809524,195
+imbalance_reversal,Timing / Stage Transition,Core Candidate,0.0,2
+imbalance_shift,Timing / Stage Transition,Core Candidate,0.0,2520
+last_minute_submit_count_share,Timing / Stage Transition,Core Candidate,0.0,2477
+last_minute_submit_volume_share,Timing / Stage Transition,Core Candidate,0.0,2520
+post920_submit_imbalance,Timing / Stage Transition,Core Candidate,0.0,2520
+post920_volume_share,Timing / Stage Transition,Core Candidate,0.0,2520
+pre920_submit_imbalance,Timing / Stage Transition,Core Candidate,0.0,2519
+cancel_rate_by_order,Cancellation / Secondary,Secondary,0.0,2164
+cancel_volume_ratio,Cancellation / Secondary,Secondary,0.0,2360
+total_cancel_volume,Cancellation / Secondary,Secondary,0.0,1402
