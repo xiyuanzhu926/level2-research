@@ -14,7 +14,7 @@ sell_price_divergence,Divergence / Distribution,Core Candidate,0.0,2520
 avg_submit_size,Liquidity / Aggregation,Core Candidate,0.0,2519
 max_submit_size,Liquidity / Aggregation,Core Candidate,0.0,1027
 median_submit_size,Liquidity / Aggregation,Core Candidate,0.0,158
-n_orders,Liquidity / Aggregation,Core Candidate,0.0,1267
+n_orders,Liquidity / Aggregation,Core Candidate,0.0,1229
 n_submit_orders,Liquidity / Aggregation,Core Candidate,0.0,1225
 pressure_intensity_to_depth,Liquidity / Aggregation,Core Candidate,0.005952380952380952,2504
 total_depth,Liquidity / Aggregation,Core Candidate,0.0,2496
@@ -36,6 +36,6 @@ last_minute_submit_volume_share,Timing / Stage Transition,Core Candidate,0.0,252
 post920_submit_imbalance,Timing / Stage Transition,Core Candidate,0.0,2520
 post920_volume_share,Timing / Stage Transition,Core Candidate,0.0,2520
 pre920_submit_imbalance,Timing / Stage Transition,Core Candidate,0.0,2519
-cancel_rate_by_order,Cancellation / Secondary,Secondary,0.0,2164
-cancel_volume_ratio,Cancellation / Secondary,Secondary,0.0,2360
-total_cancel_volume,Cancellation / Secondary,Secondary,0.0,1402
+cancel_rate_by_order,Cancellation / Secondary,Secondary,0.0,1125
+cancel_volume_ratio,Cancellation / Secondary,Secondary,0.0,1178
+total_cancel_volume,Cancellation / Secondary,Secondary,0.0,880
