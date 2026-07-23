@@ -1,0 +1,4 @@
+
+level2-research/notebooks/*.csv
+level2-research/notebooks/*.pkl
+level2-research/notebooks/04b_checkpoints/
